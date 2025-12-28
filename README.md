@@ -9,6 +9,7 @@ I help individuals and businesses automate repetitive tasks, collect structured 
 <details open>
 <summary><strong>🧠 About Me</strong></summary>
 
+- Software engineer with **11 years of experience** in the field
 - Python developer specializing in:
   - Automation
   - Web scraping
@@ -78,10 +79,10 @@ Here are some examples of what I build:
     - Supports **scheduled execution** using cron jobs or Task Scheduler
     - Generates **CSV reports** ready for analysis
 
-- 🔹 **Automation Scripts** – automate files, emails, reports, and workflows
-- 🔹 **Data Processing Tools** – clean and transform raw data
+<!-- - 🔹 **Automation Scripts** – automate files, emails, reports, and workflows -->
+<!-- - 🔹 **Data Processing Tools** – clean and transform raw data -->
 
-➡️ [Check individual repositories for code and documentation](https://github.com/omarsamir/price-compare) 
+➡️ [Check code and documentation](https://github.com/omarsamir/price-compare) 
 
 </details>
 
@@ -90,9 +91,9 @@ Here are some examples of what I build:
 <details>
 <summary><strong>📬 Contact</strong></summary>
 
-- GitHub: https://github.com/yourusername
-- Upwork: (add your profile link)
-- Email: your@email.com
+- [GitHub](https://github.com/omarsamir)
+- [Upwork](https://www.upwork.com/freelancers/~019b72ad4ed9ecb2d7?viewMode=1)
+- Email: omarsamsoliman@gmail.com
 
 </details>
 
