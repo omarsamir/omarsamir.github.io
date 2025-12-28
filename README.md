@@ -9,6 +9,7 @@ I help individuals and businesses automate repetitive tasks, collect structured 
 <details open>
 <summary><strong>🧠 About Me</strong></summary>
 
+- Software engineer with **11 years of experience** in the field
 - Python developer specializing in:
   - Automation
   - Web scraping
@@ -40,10 +41,48 @@ I help individuals and businesses automate repetitive tasks, collect structured 
 Here are some examples of what I build:
 
 - 🔹 **Web Scrapers** – extract structured data from websites
-- 🔹 **Automation Scripts** – automate files, emails, reports, and workflows
-- 🔹 **Data Processing Tools** – clean and transform raw data
+  # Samsung Galaxy A56 Price Comparison Project
+    
+    This Python project automates the process of comparing prices for the **Samsung Galaxy A56** across **Amazon Egypt** and **Jumia Egypt**.  
+    It is designed to extract product information, clean and normalize prices, and generate a comparison report in CSV format.
+    
+    ---
+    
+    ## Project Overview
+    
+    The script performs the following steps:
+    
+    1. **Open product pages**  
+       Uses Selenium to open Amazon and Jumia product pages in a real browser.
+    
+    2. **Wait for content to load**  
+       Ensures that dynamic content (JavaScript-rendered) is fully loaded before extracting data.
+    
+    3. **Extract product details**  
+       - Product title  
+       - Product price (removes currency symbols and converts to numeric)
+    
+    4. **Normalize data**  
+       - Converts price strings like `EGP 23,660.00` to numeric `23660.00` for easy comparison.
+    
+    5. **Save results**  
+       - Stores the extracted data into a CSV file: `output/price_report.csv`  
+       - Columns include: Website, Product, Price (EGP), Timestamp
+    
+    ---
+    
+    ## Key Features
+    
+    - Handles **dynamic web pages** using Selenium
+    - Mimics **human browsing behavior** to reduce detection by bot blockers
+    - Reusable functions for scraping multiple sites
+    - Supports **scheduled execution** using cron jobs or Task Scheduler
+    - Generates **CSV reports** ready for analysis
 
-➡️ Check individual repositories for code and documentation.
+<!-- - 🔹 **Automation Scripts** – automate files, emails, reports, and workflows -->
+<!-- - 🔹 **Data Processing Tools** – clean and transform raw data -->
+
+➡️ [Check code and documentation](https://github.com/omarsamir/price-compare) 
 
 </details>
 
@@ -52,9 +91,9 @@ Here are some examples of what I build:
 <details>
 <summary><strong>📬 Contact</strong></summary>
 
-- GitHub: https://github.com/yourusername
-- Upwork: (add your profile link)
-- Email: your@email.com
+- [GitHub](https://github.com/omarsamir)
+- [Upwork](https://www.upwork.com/freelancers/~019b72ad4ed9ecb2d7?viewMode=1)
+- Email: omarsamsoliman@gmail.com
 
 </details>
 
