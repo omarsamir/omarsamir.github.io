@@ -6,39 +6,38 @@ I help individuals and businesses automate repetitive tasks, collect structured 
 
 ---
 
-<details open>
-<summary><strong>🧠 About Me</strong></summary>
+## 🧠 About Me
 
-- Software engineer with **11 years of experience** in the field
+- Software engineer with **11 years of experience** in the software engineering field
 - Python developer specializing in:
   - Automation
   - Web scraping
   - Data extraction
-- I focus on practical solutions that save time and reduce manual effort
-- Clean, maintainable, and well-documented code
-
-</details>
+- Focused on practical solutions that save time and reduce manual effort
+- Strong emphasis on clean, maintainable, and well-documented code
 
 ---
 
-<details>
-<summary><strong>🛠️ Skills & Tools</strong></summary>
+## 🛠️ Skills & Tools
 
 - Python
-- Web Scraping (BeautifulSoup, Selenium, Requests)
-- Automation Scripts
-- Data Processing (Pandas, CSV, JSON)
-- APIs & HTTP Requests
+- Web Scraping:
+  - BeautifulSoup
+  - Selenium
+  - Requests
+- Automation scripts
+- Data processing:
+  - Pandas
+  - CSV
+  - JSON
+- APIs & HTTP requests
 - Git & GitHub
-
-</details>
 
 ---
 
-<details>
-<summary><strong>📂 Portfolio Projects</strong></summary>
+## 📂 Portfolio Projects
 
-Here are some examples of projects I build, focusing on automation, scraping, and real-world use cases:
+Here are some examples of projects I build, focusing on automation, scraping, and real-world use cases.
 
 ---
 
@@ -64,31 +63,23 @@ A Python automation project to compare **Samsung Galaxy A56** prices between
 - Can run repeatedly as a **cron job** or scheduled task
 - Outputs clean, structured CSV data
 
-📁 Output example:
+#### 📁 Output example
 - `output/price_report.csv`
   - Website
   - Product
   - Price (EGP)
   - Timestamp
 
-➡️ **Repository:**  
+➡️ **Repository**  
 https://github.com/omarsamir/price-compare
-
----
 
 <!-- Future projects will be added here -->
 <!-- Automation scripts, data pipelines, and monitoring tools -->
 
-</details>
-
 ---
 
-<details>
-<summary><strong>📬 Contact</strong></summary>
+## 📬 Contact
 
-- [GitHub](https://github.com/omarsamir)
-- [Upwork](https://www.upwork.com/freelancers/~019b72ad4ed9ecb2d7?viewMode=1)
-- Email: omarsamsoliman@gmail.com
-
-</details>
-
+- GitHub: https://github.com/omarsamir  
+- Upwork: https://www.upwork.com/freelancers/~019b72ad4ed9ecb2
+- email: omarsamsoliman@gmail.com
