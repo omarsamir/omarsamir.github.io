@@ -38,51 +38,46 @@ I help individuals and businesses automate repetitive tasks, collect structured 
 <details>
 <summary><strong>📂 Portfolio Projects</strong></summary>
 
-Here are some examples of what I build:
+Here are some examples of projects I build, focusing on automation, scraping, and real-world use cases:
 
-- 🔹 **Web Scrapers** – extract structured data from websites
-  # Samsung Galaxy A56 Price Comparison Project
-    
-    This Python project automates the process of comparing prices for the **Samsung Galaxy A56** across **Amazon Egypt** and **Jumia Egypt**.  
-    It is designed to extract product information, clean and normalize prices, and generate a comparison report in CSV format.
-    
-    ---
-    
-    ## Project Overview
-    
-    The script performs the following steps:
-    
-    1. **Open product pages**  
-       Uses Selenium to open Amazon and Jumia product pages in a real browser.
-    
-    2. **Wait for content to load**  
-       Ensures that dynamic content (JavaScript-rendered) is fully loaded before extracting data.
-    
-    3. **Extract product details**  
-       - Product title  
-       - Product price (removes currency symbols and converts to numeric)
-    
-    4. **Normalize data**  
-       - Converts price strings like `EGP 23,660.00` to numeric `23660.00` for easy comparison.
-    
-    5. **Save results**  
-       - Stores the extracted data into a CSV file: `output/price_report.csv`  
-       - Columns include: Website, Product, Price (EGP), Timestamp
-    
-    ---
-    
-    ## Key Features
-    
-    - Handles **dynamic web pages** using Selenium
-    - Mimics **human browsing behavior** to reduce detection by bot blockers
-    - Reusable functions for scraping multiple sites
-    - Supports **scheduled execution** using cron jobs or Task Scheduler
-    - Generates **CSV reports** ready for analysis
+---
 
-<!-- - 🔹 **Automation Scripts** – automate files, emails, reports, and workflows -->
-<!-- - 🔹 **Data Processing Tools** – clean and transform raw data -->
+### 🔹 Samsung Galaxy A56 – Price Comparison
 
-➡️ [Check code and documentation](https://github.com/omarsamir/price-compare) 
+A Python automation project to compare **Samsung Galaxy A56** prices between  
+[Amazon Egypt](https://www.amazon.eg) and [Jumia Egypt](https://www.jumia.com.eg).
+
+#### What the project does
+- Opens product pages using Selenium (real browser)
+- Waits for dynamic content to fully load
+- Extracts:
+  - Product title
+  - Product price
+- Cleans price values  
+  - Example: `EGP 23,660.00` → `23660.00`
+- Saves results into a CSV report for comparison
+
+#### Key features
+- Works with JavaScript-rendered pages
+- Uses realistic browser behavior to reduce bot detection
+- Reusable scraping functions for multiple websites
+- Can run repeatedly as a **cron job** or scheduled task
+- Outputs clean, structured CSV data
+
+📁 Output example:
+- `output/price_report.csv`
+  - Website
+  - Product
+  - Price (EGP)
+  - Timestamp
+
+➡️ **Repository:**  
+https://github.com/omarsamir/price-compare
+
+---
+
+<!-- Future projects will be added here -->
+<!-- Automation scripts, data pipelines, and monitoring tools -->
 
 </details>
 
