@@ -81,6 +81,6 @@ A Python automation project to compare **Samsung Galaxy A56** prices between
 ## 📬 Contact
 
 - GitHub: [https://github.com/omarsamir](https://github.com/omarsamir)
-- Upwork: [https://www.upwork.com/freelancers/~019b72ad4ed9ecb2](https://www.upwork.com/freelancers/~019b72ad4ed9ecb2)
+- Upwork: [https://www.upwork.com/freelancers/~019b72ad4ed9ecb2](https://www.upwork.com/freelancers/~019b72ad4ed9ecb2d7?mp_source=share)
 - Email: [omarsamsoliman@gmail.com](mailto:omarsamsoliman@gmail.com)
 
